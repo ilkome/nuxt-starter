@@ -1,0 +1,20 @@
+{
+	"folders": [
+    {
+      "name": "components",
+      "path": "components"
+    },
+    {
+      "name": "pages",
+      "path": "pages"
+    },
+    {
+      "name": "layouts",
+      "path": "layouts"
+    },
+    {
+      "name": "frontend",
+      "path": "."
+    }
+  ],
+}

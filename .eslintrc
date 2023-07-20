@@ -1,0 +1,19 @@
+{
+  "extends": [
+    "@antfu",
+    // "plugin:vue/vue3-recommended",
+    // "plugin:nuxt/recommended",
+    // "plugin:vue-pug/vue3-recommended"
+  ],
+  "rules": {
+    "no-console": "off",
+    "vue/attribute-hyphenation": [
+      "error",
+      "never"
+    ],
+    "vue/v-on-event-hyphenation": [
+      "error",
+      "never"
+    ]
+  }
+}

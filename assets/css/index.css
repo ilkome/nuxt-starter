@@ -1,0 +1,13 @@
+@import 'reset.css';
+@import 'fullpage.css';
+
+html {
+  /* Fonts */
+  --font-primary: 'Roboto', 'sans-serif';
+}
+
+body {
+  background: rgb(var(--bg-main) / 1);
+  color: rgb(var(--text-primary) / 1);
+  font-family: var(--font-primary);
+}
