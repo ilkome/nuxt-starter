@@ -31,3 +31,20 @@ Locally preview production build:
 ```bash
 yarn preview
 ```
+
+
+# VSCode Extensions
+### Convert HTML to Pug
+https://marketplace.visualstudio.com/items?itemName=ditto.convert-html-to-pug
+
+### ESLint
+https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+
+### language-stylus-revamp
+https://marketplace.visualstudio.com/items?itemName=AlbertoMonteiro.language-stylus-revamp
+
+### Tailwind CSS IntelliSense
+https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss
+
+### Vue Language Features (Volar)
+https://marketplace.visualstudio.com/items?itemName=Vue.volar
